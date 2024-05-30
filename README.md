@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hung-Liang](https://github.com/Hung-Liang)
 
-- 📫 How to reach me **<zxjonathanzx@gmail.com>**
-
 ## Projects
 
 ### Project 1
