@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hung Liang</h1>
 <h3 align="center">I am a passionate software developer with expertise in automation processes from Taiwan. I love building project that help people and make the life easier. I am always eager to learn new technologies and improve my skills.</h3>
 
-- 🌱 I’m currently learning **rust and golang**
+- 🌱 I’m currently learning **golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hung-Liang](https://github.com/Hung-Liang)
 
@@ -15,9 +15,9 @@
 
 ### Project 2
 
-- Description: A easy extendable project that download novel from different websites and send to telegram.
-- Technologies used: Python, Telegram Bot API, BeautifulSoup, Requests
-- GitHub repository: [Download and Send Novel via Telegram](https://github.com/Hung-Liang/download_and_send_novel_via_telegram)
+- Description: This is a project that will notify you when a youtube channel or twitch streamer goes live.
+- Technologies used: Python, Telegram Bot API, Twitch API, Youtube API, Requests, Schedule
+- GitHub repository: [Youtube and Twitch Notifier](https://github.com/Hung-Liang/youtube_and_twitch_notifier)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
