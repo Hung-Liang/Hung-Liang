@@ -113,9 +113,9 @@
       height="40"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <a href="https://flask.palletsprojects.com/en/stable//" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"
       alt="flask"
       width="40"
       height="40"
