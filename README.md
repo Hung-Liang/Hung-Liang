@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hung Liang</h1>
 <h3 align="center">I am a passionate software developer with expertise in automation processes from Taiwan. I love building project that help people and make the life easier. I am always eager to learn new technologies and improve my skills.</h3>
 
-- 🌱 I’m currently learning **golang**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Hung-Liang](https://github.com/Hung-Liang)
 
 ## Projects
